@@ -131,7 +131,7 @@ name.GetItem(index);
 
 ```
 
-Returns a class called DoubleData that contains the two values. You can run ```CSharp ToString ``` on it to get both the values in string format.
+Returns a class called DoubleData that contains the two values. You can run ``` ToString ``` on it to get both the values in string format.
 
 How to get all the values:
 
@@ -143,4 +143,4 @@ name.GetItems();
 
 ```
 
-Returns a class called ListDoubleData that contains two lists. You can also run  ```CSharp ToString ``` on it to get all the vales in a readable format.
+Returns a class called ListDoubleData that contains two lists. You can also run  ``` ToString ``` on it to get all the vales in a readable format.
